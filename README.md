@@ -1,7 +1,7 @@
 # Roleta-russa-python
 Este é um programa de "Roleta Russa" em Python que sorteia um número de 1 a 6. Se o número sorteado for 6, ele entra em um loop que aloca memória indefinidamente até travar o sistema.
 
-AVISO: ESTE PROGRAMA PODE TRAVAR SEU COMPUTADOR. EXECUTE POR SUA PRÓPRIA CONTA E RISCO! 
+AVISO: ESTE PROGRAMA VAI TRAVAR SEU COMPUTADOR. EXECUTE POR SUA PRÓPRIA CONTA E RISCO! 
 
 O programa sorteia um número entre 1 e 6.
 
