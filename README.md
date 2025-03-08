@@ -9,8 +9,4 @@ Se o número for diferente de 6, exibe uma mensagem dizendo que você sobreviveu
 
 Se o número for 6, ele entra em um loop que aloca grandes quantidades de memória até que o sistema fique sem RAM e trave.
 
-
-
-
-
 Feito totalmente em Python, apenas se certifique de ter o Python 3 instalado.
