@@ -6,12 +6,12 @@ while True:
     escolha = int(input('Escolha uma opção: '))
 
     if escolha == 1:
-        print("Girando o tamborkkkk")
+        print("Girando o tambor...")
         num = random.randint(1, 6)
         print(f"O número sorteado foi: {num}")
 
         if num == 6:
-                print("SE FUDEU KKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKK")
+                print("Sobrecarregando memória.")
                 lista = []
                 try:
                     while True:
@@ -19,8 +19,8 @@ while True:
                 except MemoryError:
                     print("Overflow.")
         else:
-                print("Infelizmente sobreviveu.")
-    
+                print("Você sobreviveu.")
+                
     else:
          break
     
