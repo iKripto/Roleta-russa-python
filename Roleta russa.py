@@ -22,6 +22,7 @@ while True:
                 print("Você sobreviveu.")
                 
     else:
+        print('Saindo...')
          break
     
 
